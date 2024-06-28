@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mimansa566" alt="mimansa566" /></a> </p>
 
-- 🔭 I’m currently working on **Simulation and Automation of Rover(Research Internship @IIT DELHI).**
+- 🔭 I’m currently working on **Simulation and Automation of Rover ( Under a Research Internship @IIT DELHI).**
 
-- 🌱 I’m currently learning **,How to deploy various ML & DL algorithm to tackle real world problems.orld c**
+- 🌱 I’m currently learning **,How to deploy various ML & DL algorithm to tackle real world problems.**
 
 - 📫 How to reach me **mimansasinha78@gmail.com**
 
