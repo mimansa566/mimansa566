@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **web development and machine learning**
 
-- 📫 How to reach me **mimansasinha566@gmail.com**
+- 📫 How to reach me **mimansasinha78@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
